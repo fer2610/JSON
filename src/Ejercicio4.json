@@ -1,0 +1,47 @@
+{
+  "Business contact information": {
+  "Business name": "***",
+    "Street address": "***",
+    "City": "***",
+    "State": "***",
+    "Zip code": 0,
+    "Phone": 0,
+    "Email": "someone@some.com",
+    "Website": "www.****.com"
+  },
+  "Bill to":{
+    "Client name": "****",
+    "Street address": "****",
+    "City": "***",
+    "State": "***",
+    "Zip code": 0
+  },
+  "Ship to":{
+    "Client name": "****",
+    "Street address": "****",
+    "City": "***",
+    "State": "***",
+    "Zip code": 0
+  },
+  "Invoice details":{
+    "Invoice number":0,
+    "Invoice date": "00/00/00",
+    "Terms": "Net *",
+    "Due": "00/00/00"
+  },
+  "product/service":{
+  "product or service": "****",
+    "Description": "*****",
+    "Qty/hrs": 0,
+    "Rate": 0,
+    "Amount": 0
+},
+  "Customer message": "*********",
+  "Pay": {
+    "SUBTOTAL":0,
+    "SALES TAX": 0,
+    "SHIPPING": 0,
+    "TOTAL": 0.0
+
+  }
+}
